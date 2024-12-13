@@ -6,7 +6,7 @@ The analysis is split into three notebooks that should be run in the following o
 
    - Collects raw data from The Odds API and TeamRankings.com
    - Saves raw data files with minimal processing
-   - Creates raw_odds_api.csv , raw_scores_api.csv, and raw_team_stats.csv
+   - Creates raw_odds_api.csv and raw_team_stats.csv
 
 2. `01_data_processing.ipynb`
 

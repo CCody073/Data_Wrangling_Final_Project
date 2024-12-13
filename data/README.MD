@@ -14,8 +14,7 @@ This project uses data from the following sources:
 ## Data Files
 
 - raw_odds_api.csv: Raw betting odds and game data
-- raw_scores_api.csv: Raw scores for historical games
 - raw_team_stats.csv: Raw team statistical rankings
-- processed_nfl_data.csv: Cleaned and merged dataset that is appended to the overall dataset: nfl_totals_latest
+- processed_nfl_data.csv: Cleaned and merged dataset that is normally appended to the overall dataset: nfl_totals_latest
   - This file will NOT be appended for the sake of consistency in our final report
 - nfl_totals_latest: Final and overall dataset that includes all data collected from prior weeks and used in analysis
